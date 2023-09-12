@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PictureShower</string>
+    <string name="image_loading_failure">Image loading failure</string>
+    <string name="share">Share</string>
+    <string name="save">Save</string>
+    <string name="dog_picture">dog picture</string>
+    <string name="no_internet">No internet</string>
+    <string name="unknown_exception">Unknown exception</string>
+    <string name="failed_to_save_image">Failed to save image</string>
+
+</resources>
